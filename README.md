@@ -1,8 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# First Page 
 
-Currently, two official plugins are available:
+![Pizza Home Page](https://github.com/karuna-sagar/Fast-Pizza_Website/assets/128089073/82fa4211-aea9-4ddf-8b3b-607308cd4a48)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Home Page 
+![Pizza Home](https://github.com/karuna-sagar/Fast-Pizza_Website/assets/128089073/41b010aa-4efd-4aba-80c2-5485058aa189)
+
+# Cart Page
+
+![Pizza Cart Page ](https://github.com/karuna-sagar/Fast-Pizza_Website/assets/128089073/3076dacb-05ab-4371-b8da-89dd78535317)
+
+# Billing Page
+
+
+![Pizza Amount ](https://github.com/karuna-sagar/Fast-Pizza_Website/assets/128089073/f0f9bf79-7f94-44b2-be70-618235040933)
